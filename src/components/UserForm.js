@@ -42,7 +42,7 @@ const UserForm = ({ show, handleClose, user }) => {
   });
 
   return (
-    <Modal show={show} onHide={handleClose} onClick={() => {formik.resetForm()}}>
+    <Modal show={show} onHide={handleClose}>
       <Modal.Header closeButton>
         <Modal.Title>{user ? 'Edit User' : 'Add User'}</Modal.Title>
       </Modal.Header>
