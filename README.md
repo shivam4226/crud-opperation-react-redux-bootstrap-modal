@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+<img width="923" alt="image" src="https://github.com/shivam4226/crud-opperation-react-redux-bootstrap-modal/assets/91675351/2c2dcf35-642d-4d71-993c-291a4c7ea6bd">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
